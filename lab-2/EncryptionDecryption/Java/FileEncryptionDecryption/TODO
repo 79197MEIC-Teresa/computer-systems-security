@@ -1,0 +1,15 @@
+TODO
+
+1. Try to do a program to decrypt an encrypted file 
+Can you decrypt the file 
+
+cp8.m4u.enc
+
+Hints:
+The file was previously encrypted with AESEncryptFile class 
+(you have the code) that also uses the CryptoStuff class.
+
+It was encrypted with the following AES key (256 bits):
+aaaaaaaabbbbbbbbccccccccdddddddd
+
+

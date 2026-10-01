@@ -1,0 +1,4 @@
+#!/bin/sh
+java AESEncryptFile 1234567887654321 duck.bmp
+dd if=duck.bmp of=duck.bmp.enc bs=1 count=54 conv=notrunc
+
