@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Java
+*.class
+
+# Generated cryptographic keys
+*.key
+keyring
